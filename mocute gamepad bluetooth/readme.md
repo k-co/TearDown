@@ -1,7 +1,7 @@
 <HTML>
   <HEAD>
   </HEAD>
-  <BODY style="/* W3.CSS 4.13 June 2019 by Jan Egil and Borge Refsnes */
+  <BODY style='/* W3.CSS 4.13 June 2019 by Jan Egil and Borge Refsnes */
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 /* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
 html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
@@ -232,7 +232,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .w3-border-light-grey,.w3-hover-border-light-grey:hover,.w3-border-light-gray,.w3-hover-border-light-gray:hover{border-color:#f1f1f1!important}
 .w3-border-dark-grey,.w3-hover-border-dark-grey:hover,.w3-border-dark-gray,.w3-hover-border-dark-gray:hover{border-color:#616161!important}
 .w3-border-pale-red,.w3-hover-border-pale-red:hover{border-color:#ffe7e7!important}.w3-border-pale-green,.w3-hover-border-pale-green:hover{border-color:#e7ffe7!important}
-.w3-border-pale-yellow,.w3-hover-border-pale-yellow:hover{border-color:#ffffcc!important}.w3-border-pale-blue,.w3-hover-border-pale-blue:hover{border-color:#e7ffff!important}">
+.w3-border-pale-yellow,.w3-hover-border-pale-yellow:hover{border-color:#ffffcc!important}.w3-border-pale-blue,.w3-hover-border-pale-blue:hover{border-color:#e7ffff!important}'>
     <h1> Mocute bluetooth gamepad</h1>
     <P>
       <img src="https://github.com/k-co/TearDown/blob/master/mocute%20gamepad%20bluetooth/photo5024226612736010238.jpg" height="150px" alt="Face"/>
