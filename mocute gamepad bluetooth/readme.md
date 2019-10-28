@@ -8,5 +8,11 @@
       <img src="https://github.com/k-co/TearDown/blob/master/mocute%20gamepad%20bluetooth/photo5024226612736010239.jpg" height="150px" alt="Costas"/>
       <img src="https://github.com/k-co/TearDown/blob/master/mocute%20gamepad%20bluetooth/photo5024226612736010240.jpg" height="150px" alt="Ortogonal"/>
     </P>
+    <img src="https://github.com/k-co/TearDown/blob/master/mocute%20gamepad%20bluetooth/photo5024226612736010241.jpg" height="150px" alt="Ortogonal"/>
+    <img src="https://github.com/k-co/TearDown/blob/master/mocute%20gamepad%20bluetooth/photo5024226612736010242.jpg" height="150px" alt="Ortogonal"/>
+    <P>
+      <img src="https://github.com/k-co/TearDown/blob/master/mocute%20gamepad%20bluetooth/photo5024226612736010244.jpg" height="150px" alt="Ortogonal"/>
+      <img src="https://github.com/k-co/TearDown/blob/master/mocute%20gamepad%20bluetooth/photo5024226612736010245.jpg" height="150px" alt="Ortogonal"/>      
+    </P>
   </BODY>
 </HTML>
