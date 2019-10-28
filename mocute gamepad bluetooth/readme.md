@@ -20,7 +20,7 @@
       <img src="https://github.com/k-co/TearDown/blob/master/mocute%20gamepad%20bluetooth/photo5024226612736010245.jpg" height="150px" alt="Interior"/>      
     </P>
     <P>
-      <a href="https://github.com/k-co/TearDown/blob/master/mocute%20gamepad%20bluetooth/BK3231.pdf">Circuito integrado BK3231S</a> integra um núcleo ARM968E-S, Memória de programa de 256KBFLASH, 32KB de Memória de dados, Transceptor bluetooth além de outros periféricos de hardware.
+      <a href="https://github.com/k-co/TearDown/blob/master/mocute%20gamepad%20bluetooth/BK3231.pdf">Circuito integrado BK3231S</a> integra um núcleo <a href="https://github.com/k-co/TearDown/blob/master/mocute%20gamepad%20bluetooth/ARM968E-S%20manual%20tecnico%20de%20referencia.pdf">ARM968E-S</a>, Memória de programa de 256KBFLASH, 32KB de Memória de dados, Transceptor bluetooth além de outros periféricos de hardware.
       <ul>
         <li>Tensão de operação: 2.8V - 3.6V</li>
         <li>Bluetooth compatível com versão 2.1</li>
