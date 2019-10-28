@@ -8,8 +8,13 @@
       <img src="https://github.com/k-co/TearDown/blob/master/mocute%20gamepad%20bluetooth/photo5024226612736010239.jpg" height="150px" alt="Costas"/>
       <img src="https://github.com/k-co/TearDown/blob/master/mocute%20gamepad%20bluetooth/photo5024226612736010240.jpg" height="150px" alt="Ortogonal"/>
     </P>
-    <img src="https://github.com/k-co/TearDown/blob/master/mocute%20gamepad%20bluetooth/photo5024226612736010241.jpg" height="150px" alt="Peças frontal"/>
-    <img src="https://github.com/k-co/TearDown/blob/master/mocute%20gamepad%20bluetooth/photo5024226612736010242.jpg" height="150px" alt="Peças posterior"/>
+    <details>
+      <summary>Conjunto</summary>
+      <P>
+        <img src="https://github.com/k-co/TearDown/blob/master/mocute%20gamepad%20bluetooth/photo5024226612736010241.jpg" height="150px" alt="Peças frontal"/>
+        <img src="https://github.com/k-co/TearDown/blob/master/mocute%20gamepad%20bluetooth/photo5024226612736010242.jpg" height="150px" alt="Peças posterior"/>
+      </P>
+    </details>
     <P>
       <img src="https://github.com/k-co/TearDown/blob/master/mocute%20gamepad%20bluetooth/photo5024226612736010244.jpg" height="150px" alt="IC BK3231S AS8175CE"/>
       <img src="https://github.com/k-co/TearDown/blob/master/mocute%20gamepad%20bluetooth/photo5024226612736010245.jpg" height="150px" alt="Interior"/>      
