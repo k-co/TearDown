@@ -1,6 +1,6 @@
 <HTML>
   <HEAD>
-    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://github.com/k-co/TearDown/blob/master/mocute%20gamepad%20bluetooth/style.css">
   </HEAD>
   <body class="w3-content" style="max-width:1300px">
     <h1> Mocute bluetooth gamepad</h1>
