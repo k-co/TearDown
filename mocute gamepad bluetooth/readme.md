@@ -1,9 +1,4 @@
 <HTML>
-<title>MOCUTE</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-  
 <BODY>
     <h1> Mocute bluetooth gamepad</h1>
     <P>
@@ -22,7 +17,7 @@
       <img src="https://github.com/k-co/TearDown/blob/master/mocute%20gamepad%20bluetooth/photo5024226612736010244.jpg" height="150px" alt="IC BK3231S AS8175CE"/>
       <img src="https://github.com/k-co/TearDown/blob/master/mocute%20gamepad%20bluetooth/photo5024226612736010245.jpg" height="150px" alt="Interior"/>      
     </P>
-    <div class="w3-half w3-black w3-container w3-center" style="height:700px">
+    <P>
       <a href="https://github.com/k-co/TearDown/blob/master/mocute%20gamepad%20bluetooth/BK3231.pdf">Circuito integrado BK3231S</a> integra um núcleo <a href="https://github.com/k-co/TearDown/blob/master/mocute%20gamepad%20bluetooth/ARM968E-S%20manual%20tecnico%20de%20referencia.pdf">ARM968E-S</a>, Memória de programa de 256KBFLASH, 32KB de Memória de dados, Transceptor bluetooth além de outros periféricos de hardware.
       <ul font-size="50%">
         <li>Tensão de operação: 2.8V - 3.6V</li>
@@ -33,6 +28,6 @@
         <li>56-pin QFN 7mmx7mm encapsulamento para teclado</li>
         <li>Interfaces I2C, SPI e UART</li>
       </ul>
-    </div>
+    </P>
   </BODY>
 </HTML>
