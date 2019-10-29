@@ -20,7 +20,7 @@
     <li>até 10 saídas PWM</li>
     <li>Um 12-bit ADC</li>
   </ul>
-  <h2>Programação via:</h2>
+  <h4>Programação via:</h4>
   <ul>
     <li>On-Chip-Debugger (OCD) com KEIL<sup>TM</sup></li>
     <li>In-Circuit-Programmer (ICP)</li>
