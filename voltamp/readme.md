@@ -29,7 +29,7 @@
 </p>
 <a href="https://github.com/k-co/TearDown/raw/master/voltamp/pic03.jpg"><img height=100px src="https://github.com/k-co/TearDown/raw/master/voltamp/pic03.jpg" alt="esquema de ligação"> Esquema de ligação</a>
   <h2>Conjunto Voltímetro Amperímetro</h2>
-  <p>O conjunto ainda trás um OPAMP LM358 e um regulador M5333(3.3V?)</p>
+  <p>O conjunto ainda trás um OPAMP LM358 e um regulador M5333(3.3V?) promete exibir tensões até 100V 10A.</p>
 </div>
 </body>
 </html>
